@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/bitwise-source/Bitwise-Framework/main/docs/banner.png" alt="Bitwise" width="560"/>
 
-> **Bitwise** — un framework de ingeniería inversa creado por **k2sy**.
+> **Bitwise** — un framework de ingeniería inversa creado por **k2sy**, que desarma binarios para entender cómo piensan las máquinas.
 
 | **15 años** | **🇨🇷 Costa Rica** | **Programador de bajo nivel** |
 | :---: | :---: | :---: |
