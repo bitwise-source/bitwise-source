@@ -4,7 +4,10 @@
 
 # `bitwise-source`
 
-**15 años** &nbsp;·&nbsp; 🇨🇷 **Costa Rica** &nbsp;·&nbsp; Programador de bajo nivel · Ingeniería inversa · Open source
+| **15 años** | **🇨🇷 Costa Rica** | **Programador de bajo nivel** |
+| :---: | :---: | :---: |
+
+*Ingeniería inversa · Open source*
 
 <br/>
 
@@ -50,9 +53,10 @@ Analiza binarios **ELF · PE · Mach-O**, desensambla, decompila a pseudo-C, deb
 
 ---
 
-### 💬 Contacto
+### 💬 Redes
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TxB4drcSvG)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__moi11.xyz__/)
 
 <br/>
 
