@@ -28,6 +28,8 @@ Framework de **ingeniería inversa** multi-plataforma y open source.
 
 Analiza binarios **ELF · PE · Mach-O**, desensambla, decompila a pseudo-C, debuggea y emula.
 
+*Desarrollado por el alias **k2sy***
+
 [![Stars](https://img.shields.io/github/stars/bitwise-source/Bitwise-Framework?style=social)](https://github.com/bitwise-source/Bitwise-Framework)
 
 ---
