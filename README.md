@@ -4,10 +4,10 @@
 
 # `k2sy`
 
+> **Creador de [Bitwise](https://github.com/bitwise-source/Bitwise-Framework)** — un framework de ingeniería inversa que desarma binarios para entender cómo piensan las máquinas.
+
 | **15 años** | **🇨🇷 Costa Rica** | **Programador de bajo nivel** |
 | :---: | :---: | :---: |
-
-> *Construyendo Bitwise, mi primer framework de ingeniería inversa.*
 
 <br/>
 
