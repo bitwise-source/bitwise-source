@@ -4,7 +4,7 @@
 
 > **Bitwise** — un framework de ingeniería inversa creado por **k2sy**, que desarma binarios para entender cómo piensan las máquinas.
 
-| **15 años** | **🇨🇷 Costa Rica** | **Programador de bajo nivel** |
+| **15 años** | **🇨🇷 Costa Rica** | **Programador intermedio** |
 | :---: | :---: | :---: |
 
 <br/>
