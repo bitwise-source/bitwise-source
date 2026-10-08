@@ -4,6 +4,8 @@
 
 # `bitwise-source`
 
+### aka **`k2sy`** — alias de desarrollo
+
 | **15 años** | **🇨🇷 Costa Rica** | **Programador de bajo nivel** |
 | :---: | :---: | :---: |
 
