@@ -2,9 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/bitwise-source/Bitwise-Framework/main/docs/banner.png" alt="Bitwise" width="560"/>
 
-# `k2sy`
-
-> **Creador de [Bitwise](https://github.com/bitwise-source/Bitwise-Framework)** — un framework de ingeniería inversa que desarma binarios para entender cómo piensan las máquinas.
+> **Bitwise** — un framework de ingeniería inversa creado por **k2sy**.
 
 | **15 años** | **🇨🇷 Costa Rica** | **Programador de bajo nivel** |
 | :---: | :---: | :---: |
@@ -27,8 +25,6 @@
 Framework de **ingeniería inversa** multi-plataforma y open source.
 
 Analiza binarios **ELF · PE · Mach-O**, desensambla, decompila a pseudo-C, debuggea y emula.
-
-*Desarrollado por el alias **k2sy***
 
 [![Stars](https://img.shields.io/github/stars/bitwise-source/Bitwise-Framework?style=social)](https://github.com/bitwise-source/Bitwise-Framework)
 
