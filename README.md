@@ -7,7 +7,7 @@
 | **15 años** | **🇨🇷 Costa Rica** | **Programador de bajo nivel** |
 | :---: | :---: | :---: |
 
-> *Empezando mi camino en la ingeniería inversa, construyendo herramientas que desarmarían mi propio cerebro primero.*
+> *Construyendo Bitwise, mi primer framework de ingeniería inversa.*
 
 <br/>
 
