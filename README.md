@@ -2,9 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/bitwise-source/Bitwise-Framework/main/docs/banner.png" alt="Bitwise" width="560"/>
 
-# `bitwise-source`
-
-### aka **`k2sy`** — alias de desarrollo
+# `k2sy`
 
 | **15 años** | **🇨🇷 Costa Rica** | **Programador de bajo nivel** |
 | :---: | :---: | :---: |
